@@ -33,14 +33,16 @@ The data returned will look like this:
 ```javascript
 {
   "error": null,
-  "prob": {
-    "male": 0.591264319772974,
-    "female": 0.408735680227026,
-    "gender": "Unknown"
-  },
-  "confidence": {
-    "upper": 0.593521954180142,
-    "lower": 0.589002829207331
+  "data: {
+    "prob": {
+      "male": 0.591264319772974,
+      "female": 0.408735680227026,
+      "gender": "Unknown"
+    },
+    "confidence": {
+      "upper": 0.593521954180142,
+      "lower": 0.589002829207331
+    }
   }
 }
 ```
