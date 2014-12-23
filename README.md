@@ -57,7 +57,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## License (Data)
 
-The following license information is copied directly from the Open Gender Tracker projects [Global Name Data](https://github.com/OpenGenderTracking/globalnamedata/blob/master/LICENSE.md) repository.
+The following license information is copied directly from the Open Gender Tracker projects [Global Name Data license](https://github.com/OpenGenderTracking/globalnamedata/blob/master/LICENSE.md).
 
 For the sake of convenience all data for this project are licensed under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/).
 
