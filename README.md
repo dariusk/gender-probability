@@ -55,7 +55,7 @@ genderProb.load(); // 'us' by default
 
 var data = genderProb.get('Cameron');
 if (!data.error) {
-  console.log(data.prob.gender) // "Male"
+  console.log(data.data.prob.gender) // "Male"
 }
 ```
 
