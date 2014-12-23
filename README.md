@@ -33,7 +33,7 @@ The data returned will look like this:
 ```javascript
 {
   "error": null,
-  "data: {
+  "data": {
     "prob": {
       "male": 0.591264319772974,
       "female": 0.408735680227026,
