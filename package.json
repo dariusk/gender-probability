@@ -1,0 +1,40 @@
+{
+  "name": "gender-probability",
+  "description": "Providing gender probabilities for US/UK names using Open Gender Tracker's \"Global Name Data\" resource.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dkazemi/gender-probability",
+  "author": {
+    "name": "Kazemi, Darius",
+    "email": "darius.kazemi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dkazemi/gender-probability.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkazemi/gender-probability/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/dkazemi/gender-probability/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/gender-probability",
+  "engines": {
+    "node": "0.10.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.4"
+  },
+  "keywords": [],
+  "dependencies": {
+    "fast-csv": "^0.5.4"
+  }
+}
