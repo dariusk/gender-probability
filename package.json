@@ -35,6 +35,5 @@
   },
   "keywords": [],
   "dependencies": {
-    "fast-csv": "^0.5.4"
   }
 }
