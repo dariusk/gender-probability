@@ -2,6 +2,11 @@
 
 Providing gender probabilities for US/UK names using Open Gender Tracker's [Global Name Data](https://github.com/OpenGenderTracking/globalnamedata) resource.
 
+## Introduction
+There are not a lot of tools out there that provide nuanced gender guesses for names. [Global Name Data](https://github.com/OpenGenderTracking/globalnamedata), created by Irene Ros and Adam Hyland, is an excellent resource that provides gender probabilities and confidence intervals for first names found in the US and the UK. You can [read more about the project here](http://bocoup.com/weblog/global-name-data/), including details on how gender data is aggregated. Their project even provides the code they used to define and scrape gender information, so if you'd like to tweak it and make your own data set, you're welcome to do so.
+
+I made this Node module as a way to quickly access their data in a convenient way.
+
 ## Documentation
 Install the module with: `npm install gender-probability`
 

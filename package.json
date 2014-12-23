@@ -1,7 +1,7 @@
 {
   "name": "gender-probability",
   "description": "Providing gender probabilities for US/UK names using Open Gender Tracker's \"Global Name Data\" resource.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/dkazemi/gender-probability",
   "author": {
     "name": "Kazemi, Darius",
